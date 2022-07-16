@@ -1,0 +1,9 @@
+Spaget	|3	|45.99
+Jam	|3	|15.9
+Milk	|1	|20
+Fish	|1	|12
+Ball	|1	|1
+Gravy	|1	|20
+Spinach	|2	|15.8
+Jam	|3	|14.990000
+Fish	|4	|90.000000
